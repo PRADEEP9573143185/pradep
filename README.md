@@ -1,2 +1,0 @@
-# pradep
-pratice purpose
